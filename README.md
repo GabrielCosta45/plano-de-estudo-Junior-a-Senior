@@ -39,7 +39,7 @@ Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades pr�
 - [x] Criação de dashboards interativos
 
 ### 5. 🐍 Python para Dados
-- [ ] Leitura e limpeza de dados com pandas
+- [x] Leitura e limpeza de dados com pandas
 - [ ] Análise de dados com NumPy
 - [ ] Gráficos com matplotlib/seaborn
 - [ ] Criação de APIs e notificação de registro
