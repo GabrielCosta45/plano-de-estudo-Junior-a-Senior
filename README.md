@@ -69,4 +69,4 @@ Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades pr�
 
 ## 💬 Fale comigo
 
-Caso queira trocar ideias sobre análise de dados, tirar dúvidas ou colaborar, me chama no LinkedIn! 😄
+Se voce quiser trocar uma ideias sobre análise de dados, tirar dúvidas ou colaborar, me chama no LinkedIn! 😄
