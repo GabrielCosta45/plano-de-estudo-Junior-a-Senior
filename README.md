@@ -55,7 +55,7 @@ Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades pr�
 ## 🚀 Progresso Atual
 
 📌 Atualizado em: Abril/2025  
-✅ Itens concluídos: `14/18`  
+✅ Itens concluídos: `19/23`  
 ✅ Em andamento: Curso de Python e Ciência de Dados
 
 ---
