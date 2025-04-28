@@ -31,7 +31,7 @@ Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades pr�
 - [x] SELECT, WHERE, GROUP BY
 - [x] JOINS (INNER, LEFT, RIGHT)
 - [x] CTEs e subqueries
-- [ ] Funções de agregação e manipulação
+- [x] Funções de agregação e manipulação
 
 ### 4. 📊 Power BI
 - [x] Interface e dashboards básicos
@@ -40,9 +40,9 @@ Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades pr�
 
 ### 5. 🐍 Python para Dados
 - [x] Leitura e limpeza de dados com pandas
-- [ ] Análise de dados com NumPy
-- [ ] Gráficos com matplotlib/seaborn
-- [ ] Criação de APIs e notificação de registro
+- [x] Análise de dados com NumPy
+- [x] Gráficos com matplotlib/seaborn
+- [x] Criação de APIs e notificação de registro
 
 ### 6. 📁 Projetos Práticos
 - [x] Análise de dados de vendas
