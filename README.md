@@ -1,15 +1,10 @@
-# 🧠 Plano de Estudo: Analista de Dados Júnior
-
-Estou me preparando para entrar no mercado como Analista de Dados Júnior.
-Atualmente, estou cursando faculdade de Ciência de Dados e recentemente finalizei um curso técnico de Análise de Dados com Python, eu consegui desenvolver habilidades práticas em manipulação e visualização de dados.
-
-Este repositório documenta meu plano de estudos, projetos práticos e progresso na jornada.
+# 🧠 Plano de Estudo: TI / Analise de dados
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Objetivo
 
-Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades práticas com ferramentas utilizadas no mercado.
+Conquistar uma vaga de TI / Analise de dados
 
 ---
 
@@ -55,6 +50,7 @@ Conquistar uma vaga como Analista de Dados Júnior desenvolvendo habilidades pr�
 ## 🚀 Progresso Atual
 
 ✅ Finalizado: Curso de analise de dados + Python
+🚀 Em andamento: Graduação em Tecnologia da Informação
 
 ---
 
