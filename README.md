@@ -43,7 +43,7 @@ Conquistar uma vaga de TI / Analise de dados
 - [x] Análise de dados de vendas
 - [x] Dashboard interativo com Power BI
 - [x] Projeto final com storytelling completo
-- [x] Projeto final com utilizando python, Jupyter, APIs, ELT e Banco de dados
+- [x] Projeto final utilizando python, Jupyter, APIs, ELT e Banco de dados
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
